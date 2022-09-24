@@ -18,8 +18,8 @@
 - [Flyer](./doc/flyer.pdf) 
 
   Die Vorlage für den Flyer findet Ihr im `Litec-Docs` Team unter Dateien:
-  Oeffentlichkeitsarbeit/Plakate/Vorlage_IT_rot.dotx
-  https://linzertechnikum.sharepoint.com/:w:/r/sites/LiTec-Docs/Freigegebene%20Dokumente/General/Oeffentlichkeitsarbeit/Plakate/Vorlage_IT_rot.dotx?d=w38f37a511d974af781a6a54cfa643a61&csf=1&web=1&e=0JrAuY
+  [Oeffentlichkeitsarbeit/Plakate/Vorlage_IT_rot.dotx](
+  https://linzertechnikum.sharepoint.com/:w:/r/sites/LiTec-Docs/Freigegebene%20Dokumente/General/Oeffentlichkeitsarbeit/Plakate/Vorlage_IT_rot.dotx?d=w38f37a511d974af781a6a54cfa643a61&csf=1&web=1&e=0JrAuY)
 
 ---
 
